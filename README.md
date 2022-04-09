@@ -11,6 +11,15 @@ So here we can see the list of employees with their name,email and department, l
 
 let's fill the blanks and the new Employee with name "Jhone Doe", and then press ---> "Save" button.
 
+![employee added](https://user-images.githubusercontent.com/73636880/162591722-8d2b1e9f-2794-4eb3-a718-87e06cf58031.png)
+
+Yaahooo! As you can see the new employee added!
+
+Now we can try to find the employees whose name starts with "J". So lets type "J" in search field.
+At the bottom We can see that we have only two employees.
+
+![search employees](https://user-images.githubusercontent.com/73636880/162591723-fce2edef-d7ad-4b71-8782-d1fca0d3db17.png)
+
 
 
 
