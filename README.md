@@ -21,7 +21,7 @@ At the bottom We can see that we have only two employees.
 
 ![search employees](https://user-images.githubusercontent.com/73636880/162591723-fce2edef-d7ad-4b71-8782-d1fca0d3db17.png)
 
-Another thing is the page can show up to 100 entries.
+Another thing is the page can show up to 100 entries in first page.
 
 That's all, thanks!
 
