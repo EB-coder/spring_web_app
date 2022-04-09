@@ -14,6 +14,7 @@ let's fill the blanks and the new Employee with name "Jhone Doe", and then press
 ![employee added](https://user-images.githubusercontent.com/73636880/162591722-8d2b1e9f-2794-4eb3-a718-87e06cf58031.png)
 
 Yaahooo! As you can see the new employee added!
+Also we can delete or update this employees as well.
 
 Now we can try to find the employees whose name starts with "J". So lets type "J" in search field.
 At the bottom We can see that we have only two employees.
