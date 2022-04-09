@@ -7,5 +7,9 @@ First of all, you can see the main page:
 So here we can see the list of employees with their name,email and department, let as try to add a new employee.
 ---> press "Add Employee" button.
 
+![adding employee](https://user-images.githubusercontent.com/73636880/162591652-039ba780-7cb9-4cc1-8e50-3b827d397f3b.png)
+
+let's fill the blanks and the new Employee with name "Jhone Doe"
+
 
 
